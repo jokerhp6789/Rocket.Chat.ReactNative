@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { FlatListProps, StyleSheet } from 'react-native';
+// import { FlashList } from '@shopify/flash-list';
 import { FlatList } from 'react-native-gesture-handler';
 import Animated, { runOnJS, useAnimatedScrollHandler } from 'react-native-reanimated';
 
